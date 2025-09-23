@@ -1,8 +1,6 @@
 # 👋 Hi, I'm PJ Vineeth Kumar!
 
-this is a final edit by dev-jsm 
-
-& a perfect one by dev-jsm
+This is edited by dev-pj
 
 🎓 Pre-Final Year B.Tech CSE Student at [IIIT Dharwad](https://iiitdwd.ac.in/)  
 💻 Full-Stack Developer | 🎨 UI/UX Designer | 📸 Visual Storyteller  
