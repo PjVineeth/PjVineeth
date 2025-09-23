@@ -1,5 +1,7 @@
 # 👋 Hi, I'm PJ Vineeth Kumar!
 
+This is edited by dev-pj
+
 🎓 Pre-Final Year B.Tech CSE Student at [IIIT Dharwad](https://iiitdwd.ac.in/)  
 💻 Full-Stack Developer | 🎨 UI/UX Designer | 📸 Visual Storyteller  
 📬 [LinkedIn](https://www.linkedin.com/in/pj-vineeth-kumar-88610927b) | 🐙 [GitHub](https://github.com/PjVineeth)
