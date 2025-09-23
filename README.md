@@ -1,6 +1,4 @@
-# 👋 Hi, I'm PJ Vineeth Kumar!
-
-This is edited by dev-pj
+# 👋 Hi, I'm Vineeth!
 
 🎓 Pre-Final Year B.Tech CSE Student at [IIIT Dharwad](https://iiitdwd.ac.in/)  
 💻 Full-Stack Developer | 🎨 UI/UX Designer | 📸 Visual Storyteller  
@@ -8,9 +6,9 @@ This is edited by dev-pj
 
 ---
 
-## 🚀 About Me
-
-I’m a passionate developer and designer from India, currently pursuing my B.Tech in Computer Science. With a strong foundation in full-stack development and UI/UX design, I enjoy building dynamic, user-centric applications and bringing ideas to life visually. I’ve led design, development, and branding initiatives for institutional, client, and freelance projects.
+Welcome to my GitHub profile!  
+I'm a Computer Science student at IIIT Dharwad with a passion for web development, UI/UX Deisgn.
+Here you'll find production-ready web apps, UI/UX designs spanning freelance, campus, and team projects.
 
 ---
 
@@ -19,55 +17,70 @@ I’m a passionate developer and designer from India, currently pursuing my B.Te
 **Languages:** JavaScript, TypeScript, C/C++, HTML, CSS, MySQL  
 **Frameworks/Libraries:** React.js, Next.js, Node.js, Express.js, Tailwind CSS  
 **Tools & Platforms:** Figma, Canva, Git, Wix, Adobe Suite, MongoDB, Vercel  
-**Other Skills:** Responsive Design, REST APIs, JWT Auth, Cloud Integration (MongoDB Atlas, ImageKit)
+**Other Skills:** Responsive Design, REST APIs, JWT Auth, Cloud Integration (MongoDB Atlas, ImageKit), Data Structures & Algorithms, System Design, OAuth 2.0 Auth, Multi-language support, Visual Analytics, UI Component Libraries
 
 ---
 
-## 🔨 Projects
+## 🚀 Featured Projects
 
-### 🔹 [Quisly - Interactive Quiz Platform](https://github.com/PjVineeth/Quisly)
-> _React.js + Node.js + Socket.io + MongoDB_
+### 1. [Vocab Ai](https://vocab-ai-new.vercel.app/)
+- **Repo:** [github.com/PjVineeth/vocab-ai-new](https://github.com/PjVineeth/vocab-ai-new)
+- Multi-service AI platform for real-time speech, text, and image analytics  
+  Built with Next.js 13, TypeScript, Tailwind CSS  
+  Google OAuth, multi-service integration (SARATHI-AI, CHITRA-AI, Vani AI), responsive design[attached_file:2][attached_file:1]
 
-A full-stack real-time quiz platform with role-based access control, real-time interactions, and dynamic quiz creation. Built with Figma-prototyped UI and deployed for seamless user participation and hosting.
+### 2. [Quisly Quiz Platform](https://quisly-quiz-platform.vercel.app/)
+- **Repo:** [github.com/PjVineeth/Quisly-Quiz-Platform](https://github.com/PjVineeth/Quisly-Quiz-Platform)
+- Interactive quiz platform with modern React stack, time tracking, leaderboard, and analytics
 
-### 🔹 [Blogy - Content Management Blog System](https://github.com/PjVineeth/Blogy)
-> _React 19 + Tailwind CSS + Node.js + MongoDB + JWT_
+### 3. [Blogy](https://blogy-rho.vercel.app/)
+- **Repo:** [github.com/PjVineeth/Blogy](https://github.com/PjVineeth/Blogy)
+- Blogging web app for optimized content management and contemporary design
 
-A full-stack blogging platform with a rich text editor, admin dashboard, content moderation, and image upload using ImageKit. Designed for performance and scalability.
+### 4. [Quisly Leaderboard](https://quisly-leaderboard.vercel.app/)
+- **Repo:** [github.com/PjVineeth/Quisly-Leaderboard](https://github.com/PjVineeth/Quisly-Leaderboard)
+- Real-time leaderboard for Quisly, with live ranks and stats
 
-### 🔹 IIIT Dharwad Official Website - [Design Contribution]
-> _UI/UX using Figma_
+### 5. [Emmetra Website](https://emmetra-website.vercel.app/)
+- **Repo:** [github.com/PjVineeth/emmetra-website](https://github.com/PjVineeth/emmetra-website)
+- UI/UX-focused, mobile-ready corporate website
 
-Led the redesign and optimization of the IIIT Dharwad website layout and navigation structure, focusing on responsive design, clarity, and institutional branding.
+### 6. [IIIT Dharwad (UI/UX) Design](https://iiitdwd.ac.in/)
+- Core contributor to official institute website's front-end and user experience
+
+### 7. [JTG_Company Assignment](https://jtg-assignment-indol.vercel.app/)
+- **Repo:** [github.com/PjVineeth/JTG_Assignment](https://github.com/PjVineeth/JTG_Assignment)
+- Front-end assignment for JTG; pure HTML, JS, CSS implementation
 
 ---
 
-## 💼 Experience
+## 💼 About Me
 
-### 💡 VocaB.AI (May 2025 – Present)
-> _Full-Stack Developer_
+Currently pursuing B.Tech in Computer Science & Engineering at IIIT Dharwad, specializing in full-stack development and UI/UX design.  
+Experienced in scalable apps, intuitive interfaces, and real-time web solutions.  
+Passionate about visual storytelling and analytics-driven user experiences.
 
-- Designed and developed a responsive AI services platform with custom employee-task management.
-- Built the UI and backend pipelines aligned with the brand’s AI-driven offerings.
+---
 
-### 🧾 IIIT Dharwad Research Park (Aug 2024 – Apr 2025)
-> _Designer_
-
-- Created high-quality branding documents and design assets for internal communications and entrepreneur support.
-
-### 🧩 Freelance & Campus Leadership
+## 🧩 Freelance & Campus Leadership
 
 - **Cultural Secretary – IIIT Dharwad:** Managed 40+ events, including the largest cultural fest.
 - **President – Iridescence Photography Club:** Produced campus content (reels, ads, event coverage).
 - **VP – E-Cell:** Organized investor meets and innovation summits.
-- **Freelance Designer @ Asterisks Media:** Designed websites and visuals for clients using Figma, Canva, and Wix.
+- **Freelance Designer @ Asterisks Media:** Designed client websites and visuals using Figma, Canva, Wix.
 
 ---
 
 ## ✨ Beyond Tech
 
 🎥 Photography | 🎬 Video Editing | 🎧 Music  
-📣 Event Management | 📈 Startup Ecosystem Engagement
+📣 Event Management | 📈 Startup Engagement
+
+---
+
+## 🌟 Projects
+
+Explore my featured work above or see pinned repositories for more!
 
 ---
 
@@ -75,8 +88,8 @@ Led the redesign and optimization of the IIIT Dharwad website layout and navigat
 
 📧 Email: [pjkvm123@gmail.com](mailto:pjkvm123@gmail.com)  
 📱 Phone: +91 9391716215  
-🔗 [Linktree](https://linktr.ee/pj_vineeth)
+🔗 [Linktree](https://linktr.ee/pj_vineeth)  
 
 ---
 
-> “Design is not just what it looks like and feels like. Design is how it works.” – Steve Jobs
+Thanks for visiting my profile! 🌟
